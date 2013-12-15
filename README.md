@@ -1,27 +1,29 @@
-Presentations
-============================
+# Presentations
 
-[Rails 3.1: From Idea to Deployment](http://www.slideshare.net/katgironpe/rails-31-from-idea-to-deployment-12761382)
------------------------------
+### [Creating Faster Websites Faster](https://speakerdeck.com/katgironpe/creating-faster-websites-faster)
 
-This is for beginners, particularly for some participants of Rails Girls Singapore event.
-
-
-[Geekcamp Baguio](http://www.slideshare.net/katgironpe/geekcamp-baguio)
------------------------------
-
-Introduction to Geekcamp. The first Geekcamp in the Philippines.
-
-
-[Mobile App Development](http://www.slideshare.net/katgironpe/mobile-appdevelopment-12817719)
----------------------------------------------------------------------------------------------
-
-Corona SDK and TDD Frameworks for iOS Development.
-
-[Creating Faster Websites Faster](http://faster-websites.herokuapp.com/)
----------------------------------------------------------------------------------------------
+#### November 9, 2013. Google Developers Group Devfest. Baguio City.
 
 The 14 Rules for Faster-loading Websites, Introduction to Google PageSpeed Insights and Ruby on Rails
 
 Event: Google Developers Group Devfest Cordillera-Baguio
 
+
+### [Mobile App Development](https://speakerdeck.com/katgironpe/mobile-application-development)
+
+#### May 5, 2012. Geekcamp Baguio. Baguio City.
+
+Corona SDK and TDD Frameworks for iOS Development.
+
+
+### [Geekcamp Baguio](https://speakerdeck.com/katgironpe/geekcamp-baguio)
+
+#### May 5, 2012. Geekcamp Baguio. Baguio City.
+
+Introduction to Geekcamp. The first Geekcamp in the Philippines.
+
+### [Rails 3.1: From Idea to Deployment](https://speakerdeck.com/katgironpe/rails-31-from-idea-to-deployment)
+
+#### November 2011. Rails Girls. Singapore.
+
+This is for beginners, particularly for some participants of Rails Girls Singapore event.
